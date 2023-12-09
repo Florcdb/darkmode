@@ -1,0 +1,47 @@
+img{
+   margin-left: 30px;
+   margin-top: 20px;
+}
+
+h3{
+   margin-left: 20px;
+}
+
+h2{
+   margin-left: 530px ;
+}
+
+.p{
+   display: flex;
+   justify-content: center;
+   margin-left: 80px;
+   margin-right: 90px;
+}
+
+.boton{
+  display: flex;
+  justify-content: right;
+  margin-left: 1220px;
+  margin-top:-80px;
+  border-style: none;
+  background-color: #ffffff;
+}
+
+/*
+:root {
+   --background-color: #fff;
+   --text-color: #000;
+ }
+  
+ 
+ @media (prefers-color-scheme: dark) {
+   :root {
+     --background-color: #000;
+     --text-color: #fff;
+   }
+ }
+
+ body {
+   background-color: const(--background-color);
+   color: const(--text-color);
+ }//*
